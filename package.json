@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https: //irena1811.github.io/my-app/",
+    "homepage": "https://koldovsky.github.io/irena-project",
     "name": "my-app"
   },
   "eslintConfig": {
